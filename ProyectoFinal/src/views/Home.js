@@ -1,0 +1,8 @@
+export function Home() { 
+    return ` 
+        <section> 
+            <h1>Bienvenido a la Home</h1> 
+            <p>Esta es la página de inicio.</p> 
+        </section>
+    `;
+}
