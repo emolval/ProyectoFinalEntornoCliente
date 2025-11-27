@@ -1,8 +1,12 @@
 export function Home() { 
     return ` 
         <section> 
-            <h1>Bienvenido a la Home</h1> 
-            <p>Esta es la página de inicio.</p> 
+        <div class="carousel-wrapper">
+            <div class="carousel-container" id="crabList">
+                <div class="carousel-track"></div>
+            </div>
+        </div>
         </section>
     `;
 }
+

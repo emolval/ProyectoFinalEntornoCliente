@@ -2,6 +2,7 @@ import { Home } from './views/Home';
 import { About } from './views/About'; 
 import { NotFound } from './views/NotFound'; 
 import { Masoneria } from './views/Masoneria';
+import { constructCrabsCarrusel } from './services/constructCrab';
 
 export function router() { 
     const view = document.getElementById('view'); 
@@ -10,9 +11,13 @@ export function router() {
     const routes = { 
         '/': Home, 
         '/about': About,
-        '/masoneria': Masoneria
+        '/masoneria': Masoneria,
     };  
 
-const screen = routes[route] || NotFound; 
-view.innerHTML = screen(); 
+    const screen = routes[route] || NotFound; 
+    view.innerHTML = screen(); 
+
+    if (screen === Home) {
+        constructCrabsCarrusel();
+    }
 }
