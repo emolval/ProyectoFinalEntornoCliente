@@ -33,8 +33,8 @@
       "nombre_cientifico": "Pagurus bernhardus",
       "familia": "Paguridae",
       "categoria": "Cangrejo no verdadero (Anomura)",
-      "descripcion": "Utiliza conchas de caracoles vacías para proteger su abdomen blando. Vive en zonas rocosas y fondos arenosos.",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/93/Pagurus_bernhardus2.jpg"
+      "descripcion": "Este es un cangrejo pequeño de unos 3,5 cm de longitud, que, debido a la falta de protección de su abdomen no calcificado (como en todos los pagúidos), utiliza como caparazones o casas vacías caparazones vacíos de gran cantidad de moluscos gasterópodos, como Littorina littorea, Littorina obtusata, Nassarius reticulatus, Gibbula umbilicalis, Nucela lapillus y de varias especies de cuernos del género Buccinum. En las partes más cálidas de su área de distribución, la anémona de mar Calliactis parasitica se encuentra a menudo adherida al caparazón ocupado por Pagurus bernhardus. En aguas más frías, este papel lo desempeña Hormathia digitata. Los cangrejos ermitaños luchan entre sí por buenas conchas en las que alojarse y tienen preferencia por las de ciertas especies. Los cangrejos ermitaños usan conchas de molusco para sus casas, y también han empezado a usar materiales de plástico. Los cangrejos ermitaños usan sus casas como una manera de protección, y para indicar su aptitud reproductiva. Muchas especies prefieren conchas más ligeras porque permite que los animales viajen más rápido con mayor facilidad. El plástico también es un material ligero, y 62 por ciento de las especies en el taxón han sido observado usando conchas artificiales, como las tapas del plástico.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/52/Pagurus_bernhardus.002_-_Aquarium_Finisterrae.jpg"
     },
     {
       "id": "5",
@@ -42,8 +42,8 @@
       "nombre_cientifico": "Calappa calappa",
       "familia": "Calappidae",
       "categoria": "Cangrejo verdadero (Brachyura)",
-      "descripcion": "Se entierra en arena cuando se siente amenazado; se alimenta de moluscos usando sus pinzas para abrir conchas.",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Calappidae_-_Calappa_calappa.JPG"
+      "descripcion": "Presente en la zona intermareal hasta una profundidad de 50 metros, esta especie tiene un caparazón de unos 15 cm, indistintamente rugoso en la mitad anterior, con líneas onduladas bordeando la posterior. Está activo durante las horas nocturnas y es capaz, cuando se siente amenazado, de enterrarse rápidamente debajo de la arena. Se alimenta principalmente de moluscos como las almejas, los sujeta con las patas y luego, con sus pinzas, separa las valvas o las rompe. Las especies de Calappa han desarrollado estructuras que están específicamente diseñadas para lidiar con los caracoles dextrales más comunes; esencialmente se han vuelto diestros. Esta asimetría ha evolucionado de manera convergente en al menos dos grupos de cangrejos, un cangrejo del Cretácico conocido como Megaxantho y los cangrejos caja existentes (Calappa). Aquí, una de las pinzas está agrandada y opera con una acción similar a una tijera que facilita abrir el caracol.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Calappidae_-_Calappa_calappa.JPG/1280px-Calappidae_-_Calappa_calappa.JPG"
     },
     {
       "id": "6",
@@ -51,8 +51,8 @@
       "nombre_cientifico": "Polybius henslowii",
       "familia": "Portunidae",
       "categoria": "Cangrejo verdadero (Brachyura)",
-      "descripcion": "Cangrejo nadador de caparazón casi circular, patas posteriores aplanadas. Vive en aguas abiertas del Atlántico NE y Mediterráneo.",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Polybius_henslowii.jpg"
+      "descripcion": "El cangrejo patudo (Polybius henslowii) es una especie de crustáceo decápodo Brachyura de la familia de los Portunidae. Es un cangrejo pequeño de concha redondeada y patas aplanadas, siendo la única especie del género Polybius. Es un buen nadador que se alimenta en aguas abiertas del noreste del océano Atlántico y el oeste del mar Mediterráneo. Sin interés comercial a pesar de su abundancia. En Galicia, antiguamente, pescaba con una embarcación llamada patexeira, de madera y vela latina. El caparazón de Polybius henslowii es casi circular, de superficie muy poco convexa o casi plana, de 48 mm de largo e 40 mm de largo. El primer par de pereiópodos, patas delanteras con las que caminan los decápodos, lleva pinzas, y los cuatro pares de patas restantes son aplanados con los bordes con franjas o pelusa. Esto contrasta con otros miembros de la familia Portunidae, que suelen tener solo el último par de patas adaptadas para nadar. La superficie dorsal es rojo parduzca y la ventral es más pálida. El abdomen del macho es triangular, con los segmentos tercero a quinto soldados; en el de las hembras, más estrecho, estos segmentos están soldados.",
+      "imagen": "https://bioobs.fr/blog/src/mes_photos/user_5109/9B343403-B31E-29DC-B1AA-C40D03CBB186/00145.jpg"
     },
     {
       "id": "7",
@@ -60,8 +60,8 @@
       "nombre_cientifico": "Calappa granulata",
       "familia": "Calappidae",
       "categoria": "Cangrejo verdadero (Brachyura)",
-      "descripcion": "Habita fondos arenosos o fangosos. Se oculta bajo la arena y se alimenta de bivalvos.",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/83/Calappa_granulata.jpg"
+      "descripcion": "Calappa granulata es un crustáceo decápodo de mediano tamaño y comestible, ampliamente distribuido en el mar Mediterráneo y las costas orientales del Atlántico, incluyendo Azores, Madeira y Canarias. Su caparazón es de color amarillento con moteado rojizo. Se alimenta principalmente de bivalvos, cuyas conchas abre con facilidad gracias a las modificaciones de sus pinzas. Durante los períodos de descanso o si se siente amenazado, cubre el rostro con sus anchas pinzas para protegerse. Habita sobre fondos arenosos o fangosos, entre 20 y 100 metros de profundidad.",
+      "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/386653169/original.jpeg"
     },
     {
       "id": "8",
@@ -69,8 +69,8 @@
       "nombre_cientifico": "Eriphia verrucosa",
       "familia": "Eriphiidae",
       "categoria": "Cangrejo verdadero (Brachyura)",
-      "descripcion": "Cangrejo de costas del Atlántico y Mediterráneo; caparazón robusto y pinzas fuertes. Omnívoro.",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/33/Eriphia_verrucosa.jpg"
+      "descripcion": "Eriphia verrucosa, también llamado cangrejo verrugoso o amarillo, es una especie de cangrejo que se encuentra en el mar Negro, mar Mediterráneo y el oriente del océano Atlántico desde Bretaña hasta Mauritania y las islas Azores. Su población ha disminuido en el mar Negro desde la década de 1980 y está catalogada como especie en peligro de extinción en Ucrania. Puede alcanzar un ancho de 9 cm y una longitud de 7 cm. El caparazón es grueso y liso, con colores que van del marrón-rojizo al marrón-verde, con manchas amarillas; la frente presenta siete dientes a cada lado y cinco o seis entre los ojos. Sus garras son fuertes, con dedos negros, una garra suele ser más grande que la otra y están armadas con tubérculos redondeados. En primavera migra a aguas poco profundas, menos de 1 metro, y la reproducción comienza en mayo o junio. Presenta cuatro estadios larvales, desde zoea hasta megalopa.",
+      "imagen": "https://turismo.santander.es/inventario-litoral/sites/default/files/2022-06/Eriphia%20verrucosa.jpg"
     },
     {
       "id": "9",
@@ -78,8 +78,8 @@
       "nombre_cientifico": "Cancer pagurus",
       "familia": "Cancridae",
       "categoria": "Cangrejo verdadero (Brachyura)",
-      "descripcion": "Cangrejo marino de interés comercial. Caparazón ancho, pinzas fuertes. Habita costas rocosas y fondos mixtos.",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Cancer_pagurus_2_Luc_Viatour.jpg"
+      "descripcion": "El caparazón de C. pagurus es pardo rojizo, púrpura pardo en especímenes jóvenes, ocasionalmente con parches blancos y con marcas a lo largo de los márgenes frontal-laterales con diez lóbulos redondeados. Los machos típicamente tienen un caparazón de 9 cm de largo y 15 cm de ancho, aunque puede alcanzar 25 cm de ancho. El primer par de pereiópodos está modificado en una fuerte pinza con garras negras; los otros pereiopodos tienen filas de cortas setas y dactylus negro en la punta. El caparazón ventral forma una cámara branquial para las branquias. Se distinguen antenas, anténulas, ojos compuestos y piezas bucales, incluyendo mandíbulas, maxilas, maxílulas y maxilípedos. El abdomen, escondido bajo el caparazón, es angosto en machos y ancho en hembras; debajo se encuentran los órganos sexuales y el ano. La reproducción ocurre principalmente en invierno, con fertilización interna antes de que el nuevo caparazón se endurezca. La hembra lleva más de 20 000 huevos bajo el abdomen hasta su eclosión. Los estadios larvales incluyen zoea, postlarva, megalopa y juvenil, en el que el abdomen se reduce y queda envuelto bajo el esternón.",
+      "imagen": "https://s3.animalia.bio/animals/photos/full/original/cancer-pagurus-carantec.webp"
     },
     {
       "id": "10",
@@ -87,17 +87,17 @@
       "nombre_cientifico": "Liocarcinus puber",
       "familia": "Portunidae",
       "categoria": "Cangrejo verdadero (Brachyura)",
-      "descripcion": "Cangrejo costero de aguas poco profundas; patas adaptadas para nadar. Vive sobre fondos arenosos o fangosos.",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/28/Liocarcinus_puber1.jpg"
+      "descripcion": "La nécora (Necora puber) es un crustáceo decápodo del infraorden Brachyura, de la familia Portunidae, conocidos como cangrejos nadadores, y usa su último par de patas para nadar. Es de mediano tamaño y muy apreciada en gastronomía. Su coraza tiene forma de hexágono irregular de color azul, con algas que le dan un tono pardo aterciopelado, presenta protuberancias rojas y dos ojos prominentes rojos o negros. Tiene cinco pares de patas, las primeras transformadas en pinzas. Es muy veloz, generalmente nocturna, y vive cerca de la costa entre rocas a poca profundidad, alimentándose de algas, peces muertos y ocasionalmente otras nécoras. Su tamaño aproximado es de 8 cm.",
+      "imagen": "https://litoraldegranada.ugr.es/wp-content/uploads/2017/06/NECORAPUBE4PORT-960x412.jpg"
     },
     {
       "id": "11",
       "nombre_comun": "Cangrejo de río americano",
       "nombre_cientifico": "Procambarus clarkii",
       "familia": "Cambaridae",
-      "categoria": "Crustáceo decápodo de agua dulce",
-      "descripcion": "Crustáceo de río originario de Norteamérica; caparazón alargado y pinzas. Invasor en muchas zonas.",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/33/Procambarus_clarkii1.jpg"
+      "categoria": "No es un cangrejo",
+      "descripcion": "El cangrejo rojo americano o cangrejo de río americano (Procambarus clarkii) es un crustáceo decápodo de la familia Cambaridae, nativo del sureste de Estados Unidos y presente en otros continentes como especie invasora. Se encuentra en ríos de curso lento, marismas, estanques, sistemas de riego y campos de arroz, tolerando aguas estacionales y periodos secos de más de cuatro meses. Puede alcanzar 12 cm de longitud y más de 50 g de peso, y soporta aguas algo salinas. Su vida media es de cinco años, aunque algunos individuos superan los seis años. Es omnívoro, alimentándose de vegetales, animales y carroñas.",
+      "imagen": "https://i.redd.it/this-red-swamp-crayfish-procambarus-clarkii-in-cantabria-v0-pczzcw8jhn7e1.jpg?width=3471&format=pjpg&auto=webp&s=fd9fae2fb2426fd9458bbe04f7ee190a27cd26c6"
     },
     {
       "id": "12",
@@ -105,8 +105,8 @@
       "nombre_cientifico": "Diogenes pugilator",
       "familia": "Diogenidae",
       "categoria": "Cangrejo no verdadero (Anomura)",
-      "descripcion": "Cangrejo ermitaño pequeño, usa conchas de caracoles vacías para proteger su abdomen. Vive en fondos arenosos y zonas costeras.",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/17/Diogenes_pugilator.jpg"
+      "descripcion": "Diogenes pugilator es un cangrejo ermitaño, también llamado cangrejo ermitaño pequeño o de pinzas del sur, que se distribuye desde la costa de Angola hasta el Mar del Norte y hacia el este a través del Mar Mediterráneo, Mar Negro y Mar Rojo. Su población puede ser controlada por el cangrejo depredador Liocarcinus depurator. Como otros cangrejos ermitaños, oculta su abdomen blando dentro de conchas vacías de moluscos gasterópodos. El caparazón, de hasta 11 mm de largo, tiene forma cuadrada con proyecciones triangulares en el borde frontal y pelos en las esquinas delanteras. Los ojos están en pedúnculos de longitud aproximadamente la mitad del ancho del caparazón. La pinza izquierda es mucho más grande que la derecha y ambas están cubiertas de pelo.",
+      "imagen": "https://lavalledelmetauro.it/storage/multimedia/Diogenes-pugilator-18-06-14-DSC_2529Zoom.jpg"
     },
     {
       "id": "13",
@@ -114,8 +114,8 @@
       "nombre_cientifico": "Uca tangeri",
       "familia": "Ocypodidae",
       "categoria": "Cangrejo verdadero (Brachyura)",
-      "descripcion": "Posee una pinza mucho más grande que la otra; habita manglares y playas fangosas; el macho usa su pinza para atraer hembras.",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Uca_tangeri_male.jpg"
+      "descripcion": "Uca spp. es un crustáceo decápodo que presenta dimorfismo sexual; el macho se diferencia por poseer una de las pinzas más grandes (hipertrofia), utilizada en la reproducción, mientras que esta hipertrofia dificulta la función alimentaria. Los quelíceros hipertróficos pueden alcanzar un tercio del ancho del caparazón. Los ojos se encuentran en pedúnculos de tamaño ligeramente mayor que un tercio del borde anterior de la concha, que pueden estar verticales o retraídos en semivainas horizontales. La coloración de los adultos varía entre amarillo, morado, violeta, rojo oscuro y gris, regulada por cromatóforos y ritmos circadianos y de marea; los ejemplares jóvenes, menores de 15 mm, son marrón uniforme. La longitud de la concha es de unos 50 mm. Se distribuye en las costas del océano Atlántico de Europa y África Occidental, limitándose en Europa al sur de Portugal y Andalucía atlántica, y en África a Angola, Cabo Verde y las islas del golfo de Guinea, sin colonizar el mar Mediterráneo.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/West_African_fiddler_crab_%28Uca_tangeri%29_male.jpg/1200px-West_African_fiddler_crab_%28Uca_tangeri%29_male.jpg"
     },
     {
       "id": "14",
@@ -123,26 +123,26 @@
       "nombre_cientifico": "Ocypode cursor",
       "familia": "Ocypodidae",
       "categoria": "Cangrejo verdadero (Brachyura)",
-      "descripcion": "Muy rápido; cavan madrigueras en la arena, ojos en pedúnculos largos para detectar depredadores.",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ocypode_cursor.jpg"
+      "descripcion": "Ocypode cursor, conocido como cangrejo fantasma copetudo, es una especie que habita playas arenosas del Atlántico oriental y el Mediterráneo oriental. Puede alcanzar un ancho de caparazón de 55 mm y se distingue por un mechón de setas en las puntas de los pedúnculos oculares. Su distribución es disjunta, abarcando el Mediterráneo oriental y zonas tropicales del Atlántico oriental, con indicios de expansión en el Mediterráneo. En África Occidental y el Mediterráneo Oriental, vive en playas arenosas excavando madrigueras cerca de la línea de pleamar y por encima de la zona intermareal, prefiriendo arenas con cierto contenido de agua y tolerando moderadamente aguas salobres. Es un depredador que se alimenta frecuentemente de huevos de tortugas marinas, y en el Mediterráneo sus madrigueras comienzan a menos de 3 metros del mar, con ejemplares más grandes más alejados del agua.",
+      "imagen": "https://www.visitpafos.org.cy/wp-content/uploads/2023/11/Ocypode-cursor-new.jpg"
     },
     {
       "id": "15",
       "nombre_comun": "Cangrejo de herradura",
       "nombre_cientifico": "Limulus polyphemus",
       "familia": "Limulidae",
-      "categoria": "Cangrejo primitivo",
-      "descripcion": "No es un verdadero cangrejo; exoesqueleto duro, pinzas delanteras; vive en zonas costeras y estuarios.",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Limulus_polyphemus_2004.jpg"
+      "categoria": "No es un cangrejo",
+      "descripcion": "El cangrejo herradura del Atlántico (Limulus polyphemus) es un quelicerado xifosuro de la familia Limulidae, más cercano a arañas y escorpiones que a los cangrejos. Puede alcanzar 60 cm de largo y 30 cm de ancho, y habita zonas costeras y estuarios fluviales. Está amenazado de extinción debido al cambio climático, la sobrepesca y la captura de su hemolinfa para ensayos farmacéuticos. Su caparazón quitinizado tiene forma de cúpula y posee una larga cola puntiaguda utilizada para alimentarse mientras está enterrado. El cuerpo se divide en prosoma y opistosoma, sin antenas ni mandíbulas, con un par de quelíceros ventrales y cinco pares de patas. Se alimenta de moluscos, gusanos y otros invertebrados, y las hembras ponen alrededor de 100.000 huevos durante su vida. Su distribución abarca el golfo de México y la costa del Atlántico Norte, desde la Península de Yucatán hasta Maine, siendo más común entre Virginia y Nueva Jersey.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Limulus_polyphemus_horseshue_crab_on_coast.jpg"
     },
     {
     "id": "16",
     "nombre_comun": "Cangrejo de río europeo",
     "nombre_cientifico": "Astacus astacus",
     "familia": "Astacidae",
-    "categoria": "Crustáceo decápodo de agua dulce",
-    "descripcion": "Vive en ríos y lagos de Europa. Caparazón marrón verdoso, pinzas robustas, omnívoro.",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Astacus_astacus.jpg"
+    "categoria": "No es un cangrejo",
+    "descripcion": "El cangrejo de río europeo o cangrejo noble (Astacus astacus) es un cangrejo de río de la familia Astacidae que habita los ríos de Europa y ha sido introducido en países como Reino Unido, Luxemburgo, Ucrania, Chipre, Liechtenstein, Italia, Montenegro y Marruecos. Su color dorsal varía entre marrón oliva y marrón oscuro, con la cara ventral rojizo-anaranjada, y los adultos pueden superar los 10 cm de longitud. Se encuentra amenazado por la afanomicosis, el dragado de cursos de agua y la lluvia ácida.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/76/Astacus_astacus_02.JPG"
     },
     {
     "id": "17",
@@ -150,17 +150,17 @@
     "nombre_cientifico": "Platyxanthus crenulatus",
     "familia": "Platyxanthidae",
     "categoria": "Cangrejo verdadero (Brachyura)",
-    "descripcion": "Habita fondos rocosos, caparazón ancho, fuerte pinza frontal para abrir moluscos.",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Platyxanthus_crenulatus.jpg"
+    "descripcion": "Platyxanthus crenulatus es un cangrejo de la familia Platyxanthidae que se encuentra en la zona sublitoral del Atlántico occidental, en aguas de Brasil, Uruguay y Argentina, asociado principalmente a fondos duros. Los adultos son robustos, con caparazón liso, morado dorsalmente y blanco ventralmente. Sus pinzas presentan heteroquelia y diestrabilidad, características relacionadas con su alimentación basada en romper conchas. Debido a su abundancia, tamaño y dieta, P. crenulatus tiene un papel ecológico importante como depredador en comunidades bentónicas.",
+    "imagen": "https://static.inaturalist.org/photos/86569377/large.jpeg"
     },
     {
     "id": "18",
     "nombre_comun": "Cangrejo rojo australiano",
     "nombre_cientifico": "Gecarcoidea natalis",
     "familia": "Gecarcinidae",
-    "categoria": "Cangrejo no verdadero (Anomura)",
-    "descripcion": "Crustáceo terrestre que migra entre selvas y playas; pinzas fuertes, caparazón rojizo.",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Gecarcoidea_natalis.jpg"
+    "categoria": "Cangrejo verdadero (Brachyura)",
+    "descripcion": "El cangrejo rojo de la isla de Navidad (Gecarcoidea natalis) es un crustáceo decápodo de la familia Gecarcinidae que habita la isla de Navidad y las islas Cocos. Los cangrejos son grandes, hasta 16 cm de ancho de caparazón, con las hembras más pequeñas, y viven hasta 3 años. Su color es rojo brillante, aunque rara vez pueden ser naranjas. Poseen 10 patas, de las cuales 8 sirven para caminar; el primer par está modificado en quelípedos usados para sujeción, pelea y reproducción. Son omnívoros y carroñeros oportunistas, alimentándose de hojas, frutas, flores, plántulas, basura y caracoles africanos no nativos, sin apenas competencia por la comida debido a su dominio del suelo del bosque.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Christmas_Island_Red_Crab.jpg"
     },
     {
     "id": "19",
@@ -168,8 +168,8 @@
     "nombre_cientifico": "Coenobita gigas",
     "familia": "Coenobitidae",
     "categoria": "Cangrejo no verdadero (Anomura)",
-    "descripcion": "Crustáceo terrestre gigante; usa conchas para proteger su abdomen; se alimenta de frutas y carroña.",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/45/Coenobita_gigas.jpg"
+    "descripcion": "Coenobita es un género que incluye 16 especies de cangrejos terrestres, principalmente en la región Indo-Pacífico, con una especie en África Occidental, otra en el oeste del Atlántico y una en el Pacífico, en la costa de las Américas. Está estrechamente relacionado con el cangrejo de coco, Birgus latro, formando la familia Coenobitidae. Estas especies llevan agua en conchas de gasterópodos para poder permanecer fuera del agua durante mucho tiempo. Para proteger su abdomen blando, usan conchas vacías de caracol, que van cambiando a medida que crecen y encuentran una que se ajuste a su tamaño.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Caribbean_hermit_crab.JPG"
     },
     {
     "id": "20",
@@ -177,8 +177,8 @@
     "nombre_cientifico": "Paralithodes camtschaticus",
     "familia": "Lithodidae",
     "categoria": "Cangrejo verdadero (Brachyura)",
-    "descripcion": "Cangrejo grande de mar frío; caparazón espinoso, patas largas; muy apreciado en gastronomía.",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/27/Paralithodes_camtschaticus.jpg"
+    "descripcion": "El cangrejo rojo gigante, cangrejo de Kamchatka o centollo de Alaska (Paralithodes camtschaticus) es un crustáceo decápodo litódido nativo del mar de Bering. Puede alcanzar una anchura de caparazón de 28 cm y una envergadura de patas de 1,8 m, siendo muy apreciado por su valor culinario y económico. Su color vivo es borgoña, y recibe su nombre por el color que adquiere al cocinarse. Es nativo del mar de Bering, cerca de Kamchatka y Alaska, y fue introducido en el fiordo de Múrmansk y el mar de Barents por la Unión Soviética en la década de 1960.",
+    "imagen": "https://wildverse.space/wp-content/uploads/2025/04/spiny-king-crab-rw18-233.jpg"
     },
     {
     "id": "21",
@@ -187,7 +187,7 @@
     "familia": "Majidae",
     "categoria": "Cangrejo verdadero (Brachyura)",
     "descripcion": "Caparazón pequeño y patas largas; camuflaje con algas en fondos rocosos del Atlántico.",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/57/Maja_squinado.jpg"
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/74/Maja_squinado_underside.jpg"
     },
     {
     "id": "22",
@@ -196,7 +196,7 @@
     "familia": "Ocypodidae",
     "categoria": "Cangrejo verdadero (Brachyura)",
     "descripcion": "Macho con pinza desproporcionada; habita playas y manglares del sudeste asiático.",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Uca_tangeri_male.jpg"
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/45/Uca_arcuata_wild_individual_Taiwan.jpg"
     },
     {
     "id": "23",
@@ -205,7 +205,7 @@
     "familia": "Ocypodidae",
     "categoria": "Cangrejo verdadero (Brachyura)",
     "descripcion": "Rapidez extraordinaria; madrigueras en la arena, ojos alargados sobre pedúnculos.",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ocypode_cursor.jpg"
+    "imagen": "https://picturefishai.com/wiki-image/1080/153654370611757062.jpeg"
     },
     {
     "id": "24",
@@ -214,7 +214,7 @@
     "familia": "Grapsidae",
     "categoria": "Cangrejo verdadero (Brachyura)",
     "descripcion": "Vive en costas rocosas de América; caparazón rojo y verde, se alimenta de algas.",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/70/Grapsus_grapsus.jpg"
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sally_lightfoot_crab.jpg"
     },
     {
     "id": "25",
@@ -223,7 +223,7 @@
     "familia": "Trapeziidae",
     "categoria": "Cangrejo verdadero (Brachyura)",
     "descripcion": "Pequeño cangrejo que habita corales; protege coral de depredadores a cambio de refugio y alimento.",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/10/Trapezia_cymodoce.jpg"
+    "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/114513564/original.jpg"
     },
     {
     "id": "26",
@@ -232,7 +232,7 @@
     "familia": "Paguridae",
     "categoria": "Cangrejo no verdadero (Anomura)",
     "descripcion": "Usa conchas de caracoles vacías, vive en la costa atlántica; caparazón azulado con pinzas más oscuras.",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/93/Pagurus_bernhardus2.jpg"
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK_JgHNVuIy69I3aPokYTsl_mWVM30NHv3uQ&s"
     },
     {
     "id": "27",
@@ -241,7 +241,7 @@
     "familia": "Lithodidae",
     "categoria": "Cangrejo verdadero (Brachyura)",
     "descripcion": "Gran caparazón espinoso; patas largas; habita aguas frías profundas del Pacífico Norte.",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/31/Paralithodes_platypus.jpg"
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Paralithodes_platypus.jpg/2560px-Paralithodes_platypus.jpg"
     },
     {
     "id": "28",
@@ -250,25 +250,25 @@
     "familia": "Coenobitidae",
     "categoria": "Cangrejo no verdadero (Anomura)",
     "descripcion": "Vive en manglares y playas; usa conchas para proteger su abdomen; alimentación variada: frutas, hojas, restos animales.",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/45/Coenobita_gigas.jpg"
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9bJtCcG6MVPpPDvHkJ4aHU940KZl2UOSNTw&s"
     },
     {
     "id": "29",
-    "nombre_comun": "Cangrejo real rojo",
-    "nombre_cientifico": "Paralithodes camtshaticus",
-    "familia": "Lithodidae",
-    "categoria": "Cangrejo verdadero (Brachyura)",
-    "descripcion": "Cangrejo grande de mar frío; muy apreciado en gastronomía; patas largas, caparazón espinoso.",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/27/Paralithodes_camtschaticus.jpg"
+    "nombre_comun": "Camarón araña",
+    "nombre_cientifico": "Pycnogonida",
+    "familia": "Pycnogonidae",
+    "categoria": "No es un cangrejo",
+    "descripcion": "Artrópodos marinos de cuerpo delgado y patas largas; parecen cangrejos pequeños pero están más emparentados con arácnidos que con crustáceos. Habitan en mares poco profundos y profundidades mayores.",
+    "imagen": "https://i.pinimg.com/736x/bf/17/c5/bf17c544902a1447b4027f174f8b71bb.jpg"
     },
     {
     "id": "30",
     "nombre_comun": "Cangrejo yeti",
     "nombre_cientifico": "Kiwa hirsuta",
     "familia": "Kiwaidae",
-    "categoria": "Cangrejo primitivo",
+    "categoria": "Cangrejo no verdadero (Anomura)",
     "descripcion": "Vive en aguas profundas del Pacífico; cubierto de pelos que albergan bacterias que ayudan a su alimentación.",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/34/Kiwa_hirsuta.jpg"
+    "imagen": "https://i.ytimg.com/vi/sPK-CDPbLBc/maxresdefault.jpg"
     },
     {
     "id": "31",
@@ -277,7 +277,7 @@
     "familia": "Porcellanidae",
     "categoria": "Cangrejo no verdadero (Anomura)",
     "descripcion": "Cuerpo aplanado, patas delgadas; habita entre rocas y arrecifes, pequeño tamaño.",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/48/Petrolisthes_eriomerus.jpg"
+    "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/47199620/original.jpg"
     },
     {
     "id": "32",
@@ -286,7 +286,7 @@
     "familia": "Trapeziidae",
     "categoria": "Cangrejo verdadero (Brachyura)",
     "descripcion": "Pequeño cangrejo que protege corales de depredadores; coloración púrpura con manchas.",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/15/Trapezia_rufopunctata.jpg"
+    "imagen": "https://as1.ftcdn.net/jpg/01/43/44/48/1000_F_143444893_mpCU5EqgZQnMgxMFkLDRS9iP1NEKXv49.jpg"
     },
     {
     "id": "33",
@@ -295,7 +295,7 @@
     "familia": "Ocypodidae",
     "categoria": "Cangrejo verdadero (Brachyura)",
     "descripcion": "Macho con una pinza más grande; habita manglares y playas; color verdoso.",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Uca_tangeri_male.jpg"
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzSPXNI_nhZvD5NWx-5ELDGFObmic4XmWxFw&s"
     },
     {
     "id": "34",
@@ -304,7 +304,7 @@
     "familia": "Grapsidae",
     "categoria": "Cangrejo verdadero (Brachyura)",
     "descripcion": "Habita costas rocosas; caparazón azul, pinzas adaptadas para raspar algas.",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/70/Grapsus_grapsus.jpg"
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Grapsus_albolineatus_Gnaraloo_3Mile_Lagoon%2C_cropped.JPG"
     },
     {
     "id": "35",
@@ -313,7 +313,7 @@
     "familia": "Paguridae",
     "categoria": "Cangrejo no verdadero (Anomura)",
     "descripcion": "Usa conchas vacías; habita zonas costeras del Atlántico; caparazón naranja con pinzas más oscuras.",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/93/Pagurus_bernhardus2.jpg"
+    "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/10798950/large.jpg"
     },
     {
     "id": "36",
@@ -322,7 +322,7 @@
     "familia": "Ocypodidae",
     "categoria": "Cangrejo verdadero (Brachyura)",
     "descripcion": "Veloz, madrigueras en arena; camuflaje gris para evadir depredadores.",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ocypode_cursor.jpg"
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/51/BBayCrab2.jpg"
     },
     {
     "id": "37",
@@ -331,7 +331,7 @@
     "familia": "Trapeziidae",
     "categoria": "Cangrejo verdadero (Brachyura)",
     "descripcion": "Protege corales de depredadores; color amarillo con manchas marrones; vive en arrecifes tropicales.",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/15/Trapezia_rufopunctata.jpg"
+    "imagen": "https://inaturalist-open-data.s3.amazonaws.com/photos/508586835/original.jpg"
     },
     {
     "id": "38",
@@ -340,7 +340,7 @@
     "familia": "Lithodidae",
     "categoria": "Cangrejo verdadero (Brachyura)",
     "descripcion": "Especie grande de mar frío; caparazón dorado y espinoso; patas largas; fondo rocoso.",
-    "imagen": "https://via.placeholder.com/250x150.png?text=Cangrejo+Rey+Dorado"
+    "imagen": "https://findelmundo.tur.ar/imagecache/large/lithodes-santolla-de-serge-ouachee-1333x1000.jpg"
     },
     {
     "id": "39",
@@ -349,106 +349,25 @@
     "familia": "Coenobitidae",
     "categoria": "Cangrejo no verdadero (Anomura)",
     "descripcion": "Terrestre; usa conchas; color púrpura intenso; habita islas tropicales.",
-    "imagen": "https://via.placeholder.com/250x150.png?text=Cangrejo+Ermita%C3%B1o+P%C3%BArpura"
+    "imagen": "https://www.hermitcrabparadise.com/blog/2016/ikema_purp03.jpg"
     },
     {
     "id": "40",
-    "nombre_comun": "Cangrejo gigante rojo",
-    "nombre_cientifico": "Paralithodes gigas",
-    "familia": "Lithodidae",
-    "categoria": "Cangrejo verdadero (Brachyura)",
-    "descripcion": "Gigante del Pacífico Norte; caparazón espinoso rojo; patas muy largas; fondo profundo.",
-    "imagen": "https://via.placeholder.com/250x150.png?text=Cangrejo+Gigante+Rojo"
+    "nombre_comun": "Camarón mantis",
+    "nombre_cientifico": "Odontodactylus scyllarus",
+    "familia": "Odontodactylidae",
+    "categoria": "No es un cangrejo",
+    "descripcion": "Crustáceo marino de colores brillantes, famoso por sus apéndices raptoriales capaces de golpear con enorme velocidad y fuerza. No es un camarón verdadero, pertenece al orden Stomatopoda.",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Odontodactylus_scyllarus_R%C3%A9union.jpg"
     },
     {
     "id": "41",
-    "nombre_comun": "Cangrejo violinista azul",
-    "nombre_cientifico": "Uca perplexa",
-    "familia": "Ocypodidae",
-    "categoria": "Cangrejo verdadero (Brachyura)",
-    "descripcion": "Macho con pinza gigante azul; habita playas y manglares; comportamiento territorial.",
-    "imagen": "https://via.placeholder.com/250x150.png?text=Cangrejo+Violinista+Azul"
-    },
-    {
-    "id": "42",
-    "nombre_comun": "Cangrejo fantasma blanco",
-    "nombre_cientifico": "Ocypode cerulea",
-    "familia": "Ocypodidae",
-    "categoria": "Cangrejo verdadero (Brachyura)",
-    "descripcion": "Camuflaje blanco; vive en playas arenosas; rápido y escurridizo.",
-    "imagen": "https://via.placeholder.com/250x150.png?text=Cangrejo+Fantasma+Blanco"
-    },
-    {
-    "id": "43",
-    "nombre_comun": "Cangrejo ermitaño verde",
-    "nombre_cientifico": "Pagurus viridis",
-    "familia": "Paguridae",
-    "categoria": "Cangrejo no verdadero (Anomura)",
-    "descripcion": "Habita costas atlánticas; caparazón verde; utiliza conchas de caracoles para proteger abdomen.",
-    "imagen": "https://via.placeholder.com/250x150.png?text=Cangrejo+Ermita%C3%B1o+Verde"
-    },
-    {
-    "id": "44",
-    "nombre_comun": "Cangrejo de coral azul",
-    "nombre_cientifico": "Trapezia caerulea",
-    "familia": "Trapeziidae",
-    "categoria": "Cangrejo verdadero (Brachyura)",
-    "descripcion": "Protege arrecifes de depredadores; color azul; pequeño tamaño; fondo coralino.",
-    "imagen": "https://via.placeholder.com/250x150.png?text=Cangrejo+de+Coral+Azul"
-    },
-    {
-    "id": "45",
-    "nombre_comun": "Cangrejo de roca marrón",
-    "nombre_cientifico": "Grapsus brunneus",
-    "familia": "Grapsidae",
-    "categoria": "Cangrejo verdadero (Brachyura)",
-    "descripcion": "Habita costas rocosas; caparazón marrón; se alimenta de algas.",
-    "imagen": "https://via.placeholder.com/250x150.png?text=Cangrejo+de+Roca+Marr%C3%B3n"
-    },
-    {
-    "id": "46",
-    "nombre_comun": "Cangrejo ermitaño amarillo",
-    "nombre_cientifico": "Coenobita flavescens",
-    "familia": "Coenobitidae",
-    "categoria": "Cangrejo no verdadero (Anomura)",
-    "descripcion": "Terrestre; usa conchas vacías para proteger su abdomen; color amarillo brillante; habita islas tropicales.",
-    "imagen": "https://via.placeholder.com/250x150.png?text=Cangrejo+Ermita%C3%B1o+Amarillo"
-    },
-    {
-    "id": "47",
-    "nombre_comun": "Cangrejo rey plateado",
-    "nombre_cientifico": "Lithodes argentatus",
-    "familia": "Lithodidae",
-    "categoria": "Cangrejo verdadero (Brachyura)",
-    "descripcion": "Cangrejo de mar frío; caparazón plateado y espinoso; patas largas; fondo rocoso profundo.",
-    "imagen": "https://via.placeholder.com/250x150.png?text=Cangrejo+Rey+Plateado"
-    },
-    {
-    "id": "48",
-    "nombre_comun": "Cangrejo violinista púrpura",
-    "nombre_cientifico": "Uca purpurea",
-    "familia": "Ocypodidae",
-    "categoria": "Cangrejo verdadero (Brachyura)",
-    "descripcion": "Macho con pinza gigante púrpura; habita manglares; realiza danzas para atraer hembras.",
-    "imagen": "https://via.placeholder.com/250x150.png?text=Cangrejo+Violinista+P%C3%BArpura"
-    },
-    {
-    "id": "49",
-    "nombre_comun": "Cangrejo fantasma naranja",
-    "nombre_cientifico": "Ocypode aurantiaca",
-    "familia": "Ocypodidae",
-    "categoria": "Cangrejo verdadero (Brachyura)",
-    "descripcion": "Camuflaje naranja; rápido y escurridizo; habita playas de arena fina.",
-    "imagen": "https://via.placeholder.com/250x150.png?text=Cangrejo+Fantasma+Naranja"
-    },
-    {
-    "id": "50",
-    "nombre_comun": "Cangrejo ermitaño marrón",
-    "nombre_cientifico": "Pagurus brunneus",
-    "familia": "Paguridae",
-    "categoria": "Cangrejo no verdadero (Anomura)",
-    "descripcion": "Usa conchas vacías; habita zonas costeras; caparazón marrón y pinzas más oscuras; pequeño tamaño.",
-    "imagen": "https://via.placeholder.com/250x150.png?text=Cangrejo+Ermita%C3%B1o+Marr%C3%B3n"
+    "nombre_comun": "Langosta europea",
+    "nombre_cientifico": "Homarus gammarus",
+    "familia": "Nephropidae",
+    "categoria": "No es un cangrejo",
+    "descripcion": "Crustáceo de gran tamaño con dos pinzas desarrolladas, cuerpo alargado y caparazón duro. Habita en fondos rocosos del Atlántico y Mediterráneo. Es uno de los decápodos más representativos.",
+    "imagen": "https://unionrayo.com/en/wp-content/uploads/2025/09/321.jpg"
     }
   ]
 }

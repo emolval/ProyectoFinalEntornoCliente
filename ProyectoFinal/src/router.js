@@ -3,7 +3,8 @@ import { About } from './views/About';
 import { NotFound } from './views/NotFound'; 
 import { CrabList } from './views/CrabList';
 import { CrabDetails } from "./views/CrabDetails";
-import { constructCrabsCarrusel, groupCrabsByCategory } from './services/constructCrab';
+import { TierList } from './views/TierList';
+import { buildTierList, constructCrabsCarrusel } from './services/constructCrab';
 
 export function router() { 
     const view = document.getElementById('view'); 
@@ -14,6 +15,7 @@ export function router() {
         '/': Home, 
         '/about': About,
         '/crablist': CrabList,
+        '/tierlist': TierList,
         '/cangrejos': () => "<h2>Lista de cangrejos</h2>",
     };  
 
@@ -33,6 +35,8 @@ export function router() {
     } else if (screen === CrabList) {
         view.innerHTML = `<div id="crabContainer"></div>`;
         CrabList();
+    } else if (screen === TierList) {
+        buildTierList();
     } else {
         view.innerHTML = screen(); 
     }

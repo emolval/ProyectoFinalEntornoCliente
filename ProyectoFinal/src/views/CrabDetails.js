@@ -10,7 +10,7 @@ export async function CrabDetails(id) {
         <h2>${crab.nombre_comun}</h2> 
         <h3>${crab.nombre_cientifico}</h3> 
         <h5>${crab.categoria}</h5> 
-        <img src=${crab.imagen}>
+        <img class="crabImg" src=${crab.imagen}>
         <p>${crab.descripcion}</p> 
     `; 
 }
